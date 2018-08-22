@@ -1,5 +1,5 @@
 **3.6.4** (August 22, 2018)
-* Fixing Error ActionView::Template::Error: can't add a new key into hash during iteratio
+* Fixing Error ActionView::Template::Error: can't add a new key into hash during iteration
 
 **3.6.3** (July 1, 2016)
 
